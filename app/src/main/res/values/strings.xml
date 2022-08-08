@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IIFL Assingment</string>
+    <string name="please_enter_email">Please Enter email address</string>
+    <string name="please_enter_valid_email_address">Invalid email address</string>
+    <string name="please_enter_password">Please Enter password</string>
+    <string name="please_enter_valid_password">\"Please enter your password as a 8 to 15 characters \"</string>
+    <string name="alert">Alert</string>
+    <string name="ok">OK</string>
+    <string name="logout">Logout</string>
+    <string name="hint_password">Enter password</string>
+    <string name="hint_emailId">Enter Email ID</string>
+    <string name="logout_msg">Do you want to exist?</string>
+    <string name="sort">Sort by</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="volume_high_to_low">Volume -- High to Low </string>
+    <string name="volume_low_to_high">Volume -- Low to High</string>
+    <string name="last_tread_price_high_to_low">Last Tread Price -- High to Low </string>
+    <string name="last_tread_price_low_to_high">Last Tread Price -- Low to High</string>
+    <string name="pclose_high_to_low">PCLose -- High to Low </string>
+    <string name="pclose_low_to_high">PCLose -- Low to High</string>
+    <string name="theme">Theme</string>
+    <string name="choose_theme_text">Change theme</string>
+
+</resources>
